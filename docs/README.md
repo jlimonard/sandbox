@@ -2,12 +2,15 @@
 
 #### Profile
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
-Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles.
+Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 #### 💻 Technical Skills
 - Programming Languages: Python, pyspark, Linux command line, SQL
 - Data Modelling: Data vault, dimensional modelling
-- Cloud: AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda), GCP (Dataflow Dataproc)
+- Cloud: 
+   - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
+   - GCP (BigQuery, Dataflow Dataproc)
+   - Databricks
 
 #### 🎓 Education 		
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
@@ -18,11 +21,32 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 ### 💼 Projects
 
 #### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
-- Tools: Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
-- Built etl-pipelines, gave presentations, support migration hadoop to snowflake/dbt.
+- Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
+- Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
 
 #### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
-- Tools: Hadoop, Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
+- Tools: Hadoop, Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
+Worked on Spark applications on Aws Emr, using mainly PySpark and sometimes Scala. Using sources like: daily or hourly dump files, Kafka streams and api-calls. Set up Snowflake to Data Lake ingestion via a Poc and define standards. Make application (Python, Aws Fargate). Set up Data Lake ingestion via Aws Dms via Poc, discussed architecture. Make application (Aws (Dms, Lambda, Fargate)). Start of project: using Scala and PySpark on onPrem cluster (MapR).
 
 #### Data engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
-- Tools: Hadoop, Spark, pyspark, Scala, Hive, Airflow, bash, Python, Nifi, Hortonworks, Cloudera
+- Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, bash, Python, Nifi, Hortonworks, Cloudera, sqoop
+Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
+
+#### Data warehouse developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
+- Built deployment automation of Oracle and PowerCenter sources using Python. Built etl-flows using Oracle PL/SQL, PowerCenter, Python.
+
+DATA WAREHOUSE DEVELOPER, RABO INTERNATIONAL — 2013-07 - 2015-10 
+DATA WAREHOUSE DEVELOPER, LIBERTY GLOBAL (LGI, UPC) — 2011-10 - 2013-07 
+DATA WAREHOUSE DEVELOPER, TELE2 (BBNED) — 2010-11 - 2011-09
+DATA WAREHOUSE DESIGNER, DEVELOPER, ABN AMRO (FORTIS) - 2010-01 - 2010-10 
+DATA WAREHOUSE DEVELOPER, ROYAL BANK OF SCOTLAND (RBS) - 2008-06 – 2009-12 
+DATA WAREHOUSE DESIGNER, DEVELOPER, UWV, 2006-04 - 2008-06
+DATA WAREHOUSE DESIGNER, ING, 2005-05 - 2006-03
+
+
+### Courses
+- Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
+- Data Engineering on Google Cloud Platform (5 courses), Coursera 
+- Functional Programming Principles in Scala, Coursera
+- Data Vault (modelling), VanderLek Advies
+- Dimensional modelling, VanderLek Advies
