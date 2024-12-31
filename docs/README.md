@@ -15,21 +15,14 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Unix, ERM
 
-#### 💼 Projects
+### 💼 Projects
 
-##### Booking.com
-- Role: Data Engineer
-- Period: 2023-10 - now
+#### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
+- Built etl-pipelines, gave presentations, support migration hadoop to snowflake/dbt.
 
-Built etl-pipelines ...todo
-
-##### VodafoneZiggo
-- Role: Data Engineer
-- Period:	2021-01 - 2023-09
+#### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
 
-##### Rabo Nederland
-- Role: Data Engineer
-- Period:	2017-07 - 2020-12
+#### Data engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
 - Tools: Hadoop, Spark, pyspark, Scala, Hive, Airflow, bash, Python, Nifi, Hortonworks, Cloudera
