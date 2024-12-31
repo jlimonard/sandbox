@@ -18,12 +18,18 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 #### 💼 Projects
 
 ##### Booking.com
-Role: Data Engineer
-Period: 2023-10 - now
-Tools: Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
+- Role: Data Engineer
+- Period: 2023-10 - now
+- Tools: Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
+
 Built etl-pipelines ...todo
 
 ##### VodafoneZiggo
-Role: Data Engineer
-Period:	2021-01 - 2023-09
-Tools: Hadoop, Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
+- Role: Data Engineer
+- Period:	2021-01 - 2023-09
+- Tools: Hadoop, Spark, pyspark, Hive, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
+
+##### Rabo Nederland
+- Role: Data Engineer
+- Period:	2017-07 - 2020-12
+- Tools: Hadoop, Spark, pyspark, Scala, Hive, Airflow, bash, Python, Nifi, Hortonworks, Cloudera
