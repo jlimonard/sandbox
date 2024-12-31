@@ -1,4 +1,5 @@
-# Data engineer
+Data engineer
+=============
 
 #### Profile
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
@@ -23,6 +24,9 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 #### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
 - Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
+- Optimize, stabilize and extended monitoring main report workflows to significantly improve runtimes
+- Poc to optimize ingestion pipelines to significantly improve runtimes
+- Poc working with DBT on Snowflake
 
 #### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
@@ -32,16 +36,16 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 - Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, bash, Python, Nifi, Hortonworks, Cloudera, sqoop
 - Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
 
-#### Data warehouse developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
+#### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
 - Built deployment automation of Oracle and PowerCenter sources using Python. Built etl-flows using Oracle PL/SQL, PowerCenter, Python.
 
-DATA WAREHOUSE DEVELOPER, RABO INTERNATIONAL — 2013-07 - 2015-10 
-DATA WAREHOUSE DEVELOPER, LIBERTY GLOBAL (LGI, UPC) — 2011-10 - 2013-07 
-DATA WAREHOUSE DEVELOPER, TELE2 (BBNED) — 2010-11 - 2011-09
-DATA WAREHOUSE DESIGNER, DEVELOPER, ABN AMRO (FORTIS) - 2010-01 - 2010-10 
-DATA WAREHOUSE DEVELOPER, ROYAL BANK OF SCOTLAND (RBS) - 2008-06 – 2009-12 
-DATA WAREHOUSE DESIGNER, DEVELOPER, UWV, 2006-04 - 2008-06
-DATA WAREHOUSE DESIGNER, ING, 2005-05 - 2006-03
+Data Warehouse Developer, RABO INTERNATIONAL — 2013-07 - 2015-10 
+Data Warehouse Developer, LIBERTY GLOBAL (LGI, UPC) — 2011-10 - 2013-07 
+Data Warehouse Developer, TELE2 (BBNED) — 2010-11 - 2011-09
+Data Warehouse Designer/Developer, ABN AMRO (FORTIS) - 2010-01 - 2010-10 
+Data Warehouse Developer, ROYAL BANK OF SCOTLAND (RBS) - 2008-06 – 2009-12 
+Data Warehouse Designer/Developer, UWV, 2006-04 - 2008-06
+Data Warehouse Designer, ING, 2005-05 - 2006-03
 
 
 ### Courses
