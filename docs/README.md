@@ -7,7 +7,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
 #### 💻 Technical Skills
 - Programming Languages: Python, pyspark, Linux command line, SQL
 - Data Modelling: Data vault, dimensional modelling
-- Cloud: AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda), GCP
+- Cloud: AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda), GCP (Dataflow Dataproc)
 
 #### 🎓 Education 		
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]

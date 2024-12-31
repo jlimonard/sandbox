@@ -4,6 +4,6 @@ logo: img/jl-avatar.svg  # Relative path
 
 description: Data engineer
 
-show_downloads: true
+show_downloads: false
 
 theme: jekyll-theme-minimal
