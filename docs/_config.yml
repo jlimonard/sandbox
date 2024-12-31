@@ -1,0 +1,9 @@
+title: Jurgen L.  # Add a space after the period
+
+logo: ../img/jl-avatar.svg  # Relative path
+
+description: Data engineer
+
+show_downloads: true
+
+theme: jekyll-theme-minimal
