@@ -26,11 +26,11 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 
 #### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
-Worked on Spark applications on Aws Emr, using mainly PySpark and sometimes Scala. Using sources like: daily or hourly dump files, Kafka streams and api-calls. Set up Snowflake to Data Lake ingestion via a Poc and define standards. Make application (Python, Aws Fargate). Set up Data Lake ingestion via Aws Dms via Poc, discussed architecture. Make application (Aws (Dms, Lambda, Fargate)). Start of project: using Scala and PySpark on onPrem cluster (MapR).
+- Worked on Spark applications on Aws Emr, using mainly PySpark and sometimes Scala. Using sources like: daily or hourly dump files, Kafka streams and api-calls. Set up Snowflake to Data Lake ingestion via a Poc and define standards. Make application (Python, Aws Fargate). Set up Data Lake ingestion via Aws Dms via Poc, discussed architecture. Make application (Aws (Dms, Lambda, Fargate)). Start of project: using Scala and PySpark on onPrem cluster (MapR).
 
 #### Data engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
 - Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, bash, Python, Nifi, Hortonworks, Cloudera, sqoop
-Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
+- Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
 
 #### Data warehouse developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
 - Built deployment automation of Oracle and PowerCenter sources using Python. Built etl-flows using Oracle PL/SQL, PowerCenter, Python.
