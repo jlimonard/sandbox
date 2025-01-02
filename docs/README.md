@@ -7,7 +7,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
 <table>
   <tr>
     <td>
-    <img src=img/laptop-solid.svg" width="25" height="25" alt="Skills"></td>
+    <img src="img/laptop-solid.svg" width="25" height="25" alt="Skills"></td>
     <td>Skills</td>
   </tr>
 </table>
@@ -19,6 +19,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
    - Databricks
 
 #### <img src="img/graduation-cap-solid.svg" width="30" height="30" alt="Education">
+
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
 Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
