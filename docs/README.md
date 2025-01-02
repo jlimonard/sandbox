@@ -1,11 +1,10 @@
-Data engineer
-=============
+### Data engineer
 
 #### Profile
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
-#### 💻 Technical Skills
+#### <img src="img/laptop-solid.svg" width="20" height="20" alt="Skills"> Technical Skills
 - Programming Languages: Python, pyspark, Linux command line, SQL, scala
 - Data Modelling: Dimensional modelling, Data vault
 - Cloud: 
