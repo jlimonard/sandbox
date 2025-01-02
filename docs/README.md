@@ -81,7 +81,16 @@ Data Warehouse Designer, Ing (2005-05 - 2006-03)
     <img src="img/address-book-solid.svg" width="25" height="25" alt="Contact"></td>
     <td>Contact</td>
   </tr>
+  <tr>
+    <td>
+    <img src="img/phone-solid.svg" width="10" height="10" alt="Phone"></td>
+    <td>(06) 12 34 56 78</td>
+  </tr>
+  <tr>
+    <td>
+    <img src="img/envelope-solid.svg" width="10" height="10" alt="email"></td>
+    <td>nowhere@erehwon.nl</td>
+  </tr>
 </table>
 
-telephone (06) 12 34 56 78
-email nowherea@erehwon.nl
+
