@@ -39,13 +39,13 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 #### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
 - Built deployment automation of Oracle and PowerCenter sources using Python. Built etl-flows using Oracle PL/SQL, PowerCenter, Python.
 
-Data Warehouse Developer, RABO INTERNATIONAL — 2013-07 - 2015-10 
-Data Warehouse Developer, LIBERTY GLOBAL (LGI, UPC) — 2011-10 - 2013-07 
-Data Warehouse Developer, TELE2 (BBNED) — 2010-11 - 2011-09
-Data Warehouse Designer/Developer, ABN AMRO (FORTIS) - 2010-01 - 2010-10 
-Data Warehouse Developer, ROYAL BANK OF SCOTLAND (RBS) - 2008-06 – 2009-12 
-Data Warehouse Designer/Developer, UWV, 2006-04 - 2008-06
-Data Warehouse Designer, ING, 2005-05 - 2006-03
+Data Warehouse Developer, Rabo International (2013-07 - 2015-10)  
+Data Warehouse Developer, Liberty Global (LGI, UPC) (2011-10 - 2013-07)  
+Data Warehouse Developer, Tele2 (BBNED) (2010-11 - 2011-09)  
+Data Warehouse Designer/Developer, Abn Amro (Fortis) (2010-01 - 2010-10)   
+Data Warehouse Developer, Royal Bank of Scotland (RBS) (2008-06 – 2009-12)   
+Data Warehouse Designer/Developer, Uwv (2006-04 - 2008-06)  
+Data Warehouse Designer, Ing (2005-05 - 2006-03)    
 
 
 ### Courses
