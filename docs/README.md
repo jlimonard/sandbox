@@ -6,8 +6,8 @@ I am an experienced Data Engineer with a past as Business Intelligence developer
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 #### 💻 Technical Skills
-- Programming Languages: Python, pyspark, Linux command line, SQL
-- Data Modelling: Data vault, dimensional modelling
+- Programming Languages: Python, pyspark, Linux command line, SQL, scala
+- Data Modelling: Dimensional modelling, Data vault
 - Cloud: 
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
    - GCP (BigQuery, Dataflow Dataproc)
@@ -22,18 +22,18 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 ### 💼 Projects
 
 #### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
-- Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
+- Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, linux, docker, Python, Hadoop
 - Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging.
 - Poc to optimize ingestion pipelines to significantly improve runtimes and reduce complexity.
 - Poc working with DBT on Snowflake.
 
 #### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
-- Tools: Hadoop, Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
+- Tools: Hadoop, MapR, Spark, pyspark, scala, Hive, oozie, Airflow, Snowflake, linux, docker, Python, AWS
 - Worked on Spark applications on Aws Emr, using mainly PySpark and sometimes Scala. Using sources like: daily or hourly dump files, Kafka streams and api-calls. Set up Snowflake to Data Lake ingestion via a Poc and define standards. Make application (Python, Aws Fargate). Set up Data Lake ingestion via Aws Dms via Poc, discussed architecture. Make application (Aws (Dms, Lambda, Fargate)). Start of project: using Scala and PySpark on onPrem cluster (MapR).
 
 #### Data engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
-- Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, bash, Python, Nifi, Hortonworks, Cloudera, sqoop
+- Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, linux, Python, Nifi, Hortonworks, Cloudera, sqoop
 - Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
 
 #### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
