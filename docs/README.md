@@ -15,7 +15,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
 
 #### 🎓 Education 		
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
-Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
+Thesis: [ISBN13: 9789065501165](https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart), nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Unix, ERM
 
@@ -24,9 +24,9 @@ Thesis: ISBN13: 9789065501165, nominated ‘Hiskus-scriptieprijs’ 1993/1994
 #### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python, Hadoop
 - Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
-- Optimize, stabilize and extended monitoring main report workflows to significantly improve runtimes
-- Poc to optimize ingestion pipelines to significantly improve runtimes
-- Poc working with DBT on Snowflake
+- Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging.
+- Poc to optimize ingestion pipelines to significantly improve runtimes and reduce complexity.
+- Poc working with DBT on Snowflake.
 
 #### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, bash, docker, Python
