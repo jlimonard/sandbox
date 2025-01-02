@@ -4,7 +4,7 @@
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
-#### <img src="img/laptop-solid.svg" width="20" height="20" alt="Skills"> Technical Skills
+#### <img src="img/laptop-solid.svg" width="30" height="30" alt="Skills">
 - Programming Languages: Python, pyspark, Linux command line, SQL, scala
 - Data Modelling: Dimensional modelling, Data vault
 - Cloud: 
@@ -12,7 +12,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
    - GCP (BigQuery, Dataflow Dataproc)
    - Databricks
 
-#### 🎓 Education 		
+####<img src="graduation-cap-solid.svg" width="20" height="20" alt="Education">
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
 Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
