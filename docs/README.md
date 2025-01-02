@@ -93,5 +93,5 @@ Data Warehouse Designer, Ing (2005-05 - 2006-03)
   </tr>
 </table>
 <BR>
-Download this page as [pdf](pdf/resumé-jlimonard.pdf).
+Download this page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/README.pdf).
 
