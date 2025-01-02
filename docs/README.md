@@ -1,4 +1,4 @@
-### Data engineer
+### Data Engineer
 
 #### Profile
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
@@ -40,18 +40,18 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
   </tr>
 </table>
 
-#### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
+#### Data Engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, linux, docker, Python, Hadoop
 - Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging.
 - Poc to optimize ingestion pipelines to significantly improve runtimes and reduce complexity.
 - Poc working with DBT on Snowflake.
 
-#### Data engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
+#### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, pyspark, scala, Hive, oozie, Airflow, Snowflake, linux, docker, Python, AWS
 - Worked on Spark applications on Aws Emr, using mainly PySpark and sometimes Scala. Using sources like: daily or hourly dump files, Kafka streams and api-calls. Set up Snowflake to Data Lake ingestion via a Poc and define standards. Make application (Python, Aws Fargate). Set up Data Lake ingestion via Aws Dms via Poc, discussed architecture. Make application (Aws (Dms, Lambda, Fargate)). Start of project: using Scala and PySpark on onPrem cluster (MapR).
 
-#### Data engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
+#### Data Engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
 - Tools: Hadoop, Spark, pyspark, Scala, Hive, Kafka, Airflow, linux, Python, Nifi, Hortonworks, Cloudera, sqoop
 - Built etl pipelines, both batch and streaming. Worked with parquet, avro, orc, json etc. Used hdfs, HBase and Hive as sink. Data preparation via Google BigQuery. Used Databricks. Gave knowledge sharing sessions about HBase. Set up standards for the new Rabo Data Lake.
 
