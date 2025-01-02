@@ -92,6 +92,6 @@ Data Warehouse Designer, Ing (2005-05 - 2006-03)
     <td>nowhere@erehwon.nl</td>
   </tr>
 </table>
-<p>
+<BR>
 Download this page as [pdf](pdf/resumé-jlimonard.pdf).
-</p>
+
