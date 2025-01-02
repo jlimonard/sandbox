@@ -4,7 +4,13 @@
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
-#### <img src="img/laptop-solid.svg" width="30" height="30" alt="Skills">
+<table>
+  <tr>
+    <td>
+    <img src=img/laptop-solid.svg" width="25" height="25" alt="Skills"></td>
+    <td>Skills</td>
+  </tr>
+</table>
 - Programming Languages: Python, pyspark, Linux command line, SQL, scala
 - Data Modelling: Dimensional modelling, Data vault
 - Cloud: 
@@ -53,3 +59,8 @@ Data Warehouse Designer, Ing (2005-05 - 2006-03)
 - Functional Programming Principles in Scala, Coursera
 - Data Vault (modelling), VanderLek Advies
 - Dimensional modelling, VanderLek Advies
+
+
+#### <img src="img/address-book-solid.svg" width="30" height="30" alt="Contact">
+(06) 12 34 56 78
+nowherea@erehwon.nl
