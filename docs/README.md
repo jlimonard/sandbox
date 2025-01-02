@@ -12,13 +12,13 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
    - GCP (BigQuery, Dataflow Dataproc)
    - Databricks
 
-####<img src="graduation-cap-solid.svg" width="20" height="20" alt="Education">
+#### <img src="img/graduation-cap-solid.svg" width="30" height="30" alt="Education">
 - Ma. (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
 Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Unix, ERM
 
-### 💼 Projects
+#### <img src="img/briefcase-solid.svg" width="30" height="30" alt="Projects">
 
 #### Data engineer <a href="https://www.booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, pyspark, Hive, oozie, Airflow, Astronomer, Kubernetes, Snowflake, DBT, linux, docker, Python, Hadoop
