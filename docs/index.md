@@ -1,7 +1,11 @@
+<head>
+   <meta name="robots" content="noindex">
+</head>
+
 ### Data Engineer
 
 #### Profile
-I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo. Mostly in scrum teams. 
+I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 <table>
@@ -11,7 +15,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
     <td>Skills</td>
   </tr>
 </table>
-- Programming Languages: Python, pyspark, Linux command line, SQL, scala
+- Languages, frameworks: Python, pyspark, Linux command line, SQL, scala, DBT
 - Data Modelling: Dimensional modelling, Data vault
 - Cloud: 
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
@@ -45,7 +49,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Built etl-pipelines, gave presentations, support migration from on premise hadoop to cloud, snowflake/dbt.
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging.
 - Poc to optimize ingestion pipelines to significantly improve runtimes and reduce complexity.
-- Poc working with DBT on Snowflake.
+- Poc for DBT on Snowflake.
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, pyspark, scala, Hive, oozie, Airflow, Snowflake, linux, docker, Python, AWS

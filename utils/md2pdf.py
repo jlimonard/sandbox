@@ -4,10 +4,10 @@ from pathlib import Path
 # Download pandoc if not already installed
 # pypandoc.download_pandoc()
 
-source_markdown_file: Path = Path("docs/README.md").absolute()
+source_markdown_file: Path = Path("docs/index.md").absolute()
 target_pdf_file: Path = Path("pdf/resumé-jlimonard.pdf").absolute()
 
-# Convert the README.md to PDF
+# Convert the index.md to pdf
 output: str = pypandoc.convert_file(
     source_file=source_markdown_file,
     to="pdf",
