@@ -5,8 +5,8 @@
 ### Jurgen Limonard - Data Engineer
 
 #### Profile
-I am an experienced Data Engineer with a past as Business Intelligence developer. WorkING in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
-Good analytical and communication skills. Presented knowledge sharING sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
+I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
+Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 <table>
   <tr>
@@ -16,7 +16,7 @@ Good analytical and communication skills. Presented knowledge sharING sessions a
   </tr>
 </table>
 - Main: Spark, Python, PySpark, Scala, DBT, Linux, SQL
-- Data ModellING: Dimensional modellING, Data vault
+- Data Modelling: Dimensional modelling, Data vault
 - Cloud
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
    - GCP (BigQuery, Dataflow Dataproc)
@@ -47,29 +47,29 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 #### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, PySpark, Airflow, Astronomer, Kubernetes, Snowflake, DBT, Linux, docker, Python, Hadoop, Hive, Oozie
 - Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
-- Optimized (spark) workflows to significantly improve performance and stability. Extended monitorING and loggING
+- Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging
 - PoC to optimize spark pipelines to significantly improve runtimes and reduce complexity
 - PoC for DBT on Snowflake; define standards
 - Support compliance (regulatory) programs
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS
-- Worked on Spark applications on Aws Emr, usING PySpark and Scala
+- Worked on Spark applications on Aws Emr, using PySpark and Scala
 - Sources like: daily or hourly dump files, Kafka streams and api-calls
-- Set up Snowflake to Data Lake INGestion via a PoC and define standards and made application (Python, Aws Fargate)
+- Set up Snowflake to Data Lake ingestion via a PoC and define standards and made application (Python, Aws Fargate)
 
 
 #### Data Engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
 - Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop
-- Built ETL pipelines, both batch and streamING. Worked with parquet, avro, orc, json
+- Built ETL pipelines, both batch and streaming. Worked with parquet, avro, orc, json
 - Used hdfs, HBase and Hive as sink
 - Data preparation via Google BigQuery. Used Databricks
-- Gave knowledge sharING sessions about HBase
+- Gave knowledge sharing sessions about HBase
 - Set up standards for the new Rabo Data Lake
 
 #### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
-- Built deployment automation CI/CD of Oracle and PowerCenter sources usING Python. Huge time saver
--  Built ETL-flows usING Oracle PL/SQL, PowerCenter, Python
+- Built deployment automation CI/CD of Oracle and PowerCenter sources using Python. Huge time saver
+-  Built ETL-flows using Oracle PL/SQL, PowerCenter, Python
 
 Data Warehouse Developer, Rabo International (2013-07 - 2015-10)  
 Data Warehouse Developer, Liberty Global (LGI, UPC) (2011-10 - 2013-07)  
@@ -81,11 +81,11 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
 
 
 ### Courses
-- Neo4j Fundamentals (Neo4j, Cypher, Graph data modelING), Neo4j GraphAcademy 
-- Data EngineerING on Google Cloud Platform (5 courses), Coursera 
-- Functional ProgrammING Principles in Scala, Coursera
-- Data Vault (modellING), VanderLek Advies
-- Dimensional modellING, VanderLek Advies
+- Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
+- Data Engineering on Google Cloud Platform (5 courses), Coursera 
+- Functional Programming Principles in Scala, Coursera
+- Data Vault (modelling), VanderLek Advies
+- Dimensional modelling, VanderLek Advies
 
 
 <table>
@@ -107,4 +107,4 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
 </table>
 
 <BR>
-This page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/resumé-jlimonard.pdf).
+Ths page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/resumé-jlimonard.pdf).
