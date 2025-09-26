@@ -2,10 +2,10 @@
    <meta name="robots" content="noindex">
 </head>
 
-### Data Engineer
+### Jurgen Limonard - Data Engineer
 
 #### Profile
-I am an experienced Data Engineer with a past as Business Intelligence developer. WorkING in IT since 1997. Worked for companies like BookING.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
+I am an experienced Data Engineer with a past as Business Intelligence developer. WorkING in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharING sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 <table>
@@ -34,7 +34,7 @@ Good analytical and communication skills. Presented knowledge sharING sessions a
 Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Linux, ERM
-
+<BR>
 
 <table>
   <tr>
@@ -44,7 +44,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
   </tr>
 </table>
 
-#### Data Engineer <a href="https://www.bookING.com/" target="_blank">BookING.com</a> (2023-10 - now)
+#### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
 - Tools: Spark, PySpark, Airflow, Astronomer, Kubernetes, Snowflake, DBT, Linux, docker, Python, Hadoop, Hive, Oozie
 - Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitorING and loggING
@@ -97,12 +97,12 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
   <tr>
     <td>
     <img src="img/phone-solid.svg" width="10" height="10" alt="Phone"></td>
-    <td>(06) 12 34 56 78</td>
+    <td>(06) 12 40 17 89</td>
   </tr>
   <tr>
     <td>
     <img src="img/envelope-solid.svg" width="10" height="10" alt="email"></td>
-    <td>nowhere@erehwon.nl</td>
+    <td>jurgen.limonard@gmail.com</td>
   </tr>
 </table>
 
