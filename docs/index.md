@@ -108,3 +108,4 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
 
 <BR>
 Ths page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/resumé-jlimonard.pdf).
+This page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/resumé-jlimonard.pdf).
