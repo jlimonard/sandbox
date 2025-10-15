@@ -4,9 +4,10 @@
 
 ### Jurgen Limonard - Data Engineer
 
-#### Profile
-I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
-Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
+#### Profiel
+Ik ben een ervaren Data Engineer met een verleden als Business Intelligence-ontwikkelaar. Ik werk sinds 1997 in de IT. Ik heb gewerkt voor o.a Booking.com, Rabo, ING en VodafoneZiggo, meestal in scrumteams.
+Goede analytische en communicatieve vaardigheden. Heb kennisdelingssessies gegeven en IT-gerelateerde artikelen gepubliceerd. 
+Continu blijven leren is één van de leuke kanten van het big data-ecosysteem.
 
 <table>
   <tr>
@@ -15,9 +16,11 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
     <td>Skills</td>
   </tr>
 </table>
-- Main: Spark, Python, PySpark, Scala, DBT, Linux, SQL
+- Spark, Python, PySpark, Scala, DBT, Linux, SQL, Databases
 - Data Modelling: Dimensional modelling, Data vault
+
 - Cloud
+
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
    - GCP (BigQuery, Dataflow Dataproc)
    - Databricks
@@ -27,11 +30,13 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
   <tr>
     <td>
     <img src="img/graduation-cap-solid.svg" width="25" height="25" alt="Education"></td>
-    <td>Education</td>
+    <td>Opleiding</td>
   </tr>
 </table>
+
 - MA (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
-Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
+Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominatie ‘Hiskus-scriptieprijs’ 1993/1994	
+
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Linux, ERM
 <BR>
@@ -39,37 +44,36 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 <table>
   <tr>
     <td>
-    <img src="img/briefcase-solid.svg" width="25" height="25" alt="Projects"></td>
-    <td>Projects</td>
+    <img src="img/briefcase-solid.svg" width="25" height="25" alt="Projecten"></td>
+    <td>Projecten</td>
   </tr>
 </table>
 
-#### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
+#### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - 2025-10)
 - Tools: Spark, PySpark, Airflow, Astronomer, Kubernetes, Snowflake, DBT, Linux, docker, Python, Hadoop, Hive, Oozie
-- Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
-- Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging
-- PoC to optimize spark pipelines to significantly improve runtimes and reduce complexity
-- PoC for DBT on Snowflake; define standards
-- Support compliance (regulatory) programs
+- ETL-pipelines gemaakt, presentaties gegeven, ondersteuning bij migratie van hadoop onPrem naar de cloud
+- Optimaliseren spark pipelines: significante verbetering doorlooptijd; complexiteit gereduceerd
+- PoC voor DBT - Snowflake; definiëren nieuwe (ontwikkel) standaarden en starten nieuwe DBT flows
+- Ondersteuning bij compliance (regulatory) programma's
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS
-- Worked on Spark applications on Aws Emr, using PySpark and Scala
-- Sources like: daily or hourly dump files, Kafka streams and api-calls
-- Set up Snowflake to Data Lake ingestion via a PoC and define standards and made application (Python, Aws Fargate)
+- Spark applicaties op Aws Emr, via PySpark en Scala
+- Bronnen: dump files, Kafka streams en api-calls
+- Opzetten Snowflake - Data Lake ingestion via een PoC en standaarden definiëren (Python, Aws Fargate)
 
 
 #### Data Engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
 - Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop
-- Built ETL pipelines, both batch and streaming. Worked with parquet, avro, orc, json
-- Used hdfs, HBase and Hive as sink
-- Data preparation via Google BigQuery. Used Databricks
-- Gave knowledge sharing sessions about HBase
-- Set up standards for the new Rabo Data Lake
+- ETL pipelines gemaakt (batch en streaming). Formats als: parquet, avro, orc, json
+- hdfs, HBase en Hive als opslag
+- Data preparatie via Google BigQuery en Databricks
+- Kennisdeel sessies gegeven over HBase
+- Opzetten standaarden voor nieuwe Rabo Data Lake
 
 #### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
-- Built deployment automation CI/CD of Oracle and PowerCenter sources using Python. Huge time saver
--  Built ETL-flows using Oracle PL/SQL, PowerCenter, Python
+- Maken CI/CD voor Oracle en PowerCenter sources met Python. Enorme time saver!
+- Maken ETL-flows met Oracle PL/SQL, PowerCenter, Python
 
 Data Warehouse Developer, Rabo International (2013-07 - 2015-10)  
 Data Warehouse Developer, Liberty Global (LGI, UPC) (2011-10 - 2013-07)  
@@ -80,7 +84,7 @@ Data Warehouse Designer/Developer, UWV (2006-04 - 2008-06)
 Data Warehouse Designer, ING (2005-05 - 2006-03)    
 
 
-### Courses
+### Cursussen
 - Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
 - Data Engineering on Google Cloud Platform (5 courses), Coursera 
 - Functional Programming Principles in Scala, Coursera
