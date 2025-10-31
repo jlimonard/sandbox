@@ -44,7 +44,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
   </tr>
 </table>
 
-#### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - now)
+#### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - 2025-10)
 - Tools: Spark, PySpark, Airflow, Astronomer, Kubernetes, Snowflake, DBT, Linux, docker, Python, Hadoop, Hive, Oozie
 - Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging
