@@ -35,7 +35,12 @@ def remove_header_footer(markdown_content: str) -> str:
 
 def make_pdf() -> None:
     parser = argparse.ArgumentParser(description="..")
-    parser.add_argument("language", type=str, default="en", help="allowed: en|nl")
+    parser.add_argument(
+        "language",
+        type=str,
+        choices=list(LANGUAGE_CONFIGS.keys()),
+        help=f"Language code: {', '.join(LANGUAGE_CONFIGS.keys())}",
+    )
     args = parser.parse_args()
     language: str = args.language
 
