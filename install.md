@@ -3,10 +3,17 @@
 ```
 brew install pandoc
 brew install basictex
-brew install texlive
-
-pip install pypandoc
+brew install texliv
 ```
+
+# Install main dependencies
+pip install -e .
+
+# Install with dev dependencies
+pip install -e ".[dev]"
+
+# Or install all
+pip install -e ".[dev]"
 
 # icons
 
