@@ -46,15 +46,15 @@ def make_pdf() -> None:
     pdf_file: Path = Path(f"pdf/{config.output_file_pdf}").absolute()
 
     content: str = markdown_file.read_text(encoding="utf-8")
+    # Remove header (laguage selection) and footer (pdf link) from the markdown - makes no sense in the pdf
     cleaned_content: str = remove_header_footer(content)
-    # Write cleaned content to a temporary file as required by pypandoc.convert_file (arg source_file)
+    # Write cleaned content to a temporary file (required by pypandoc.convert_file (arg source_file))
     with tempfile.NamedTemporaryFile(
         mode="w", suffix=".md", delete=False, encoding="utf-8"
     ) as temp_file:
         temp_file.write(cleaned_content)
         temp_file_path = temp_file.name
 
-    # Convert the markdown to pdf
     try:
         _: str = pypandoc.convert_file(
             source_file=temp_file_path,
