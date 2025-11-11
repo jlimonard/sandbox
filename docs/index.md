@@ -2,6 +2,15 @@
    <meta name="robots" content="noindex">
 </head>
 
+<header>
+<div id="lang-select" style="margin:0 0 1rem;">
+  Language:
+  <a href="index_nl.md" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
+  |
+  <a href="#" data-lang="en" id="lang-en" aria-label="English">English</a>
+</div>
+</header>
+
 ### Jurgen Limonard - Data Engineer
 
 #### Profile
@@ -107,4 +116,7 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
 </table>
 
 <BR>
-This page as [pdf](https://github.com/jlimonard/sandbox/blob/main/pdf/resumé-jlimonard.pdf).
+
+<footer>
+This page as [pdf](https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard.pdf).
+</footer>
