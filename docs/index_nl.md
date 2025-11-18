@@ -13,7 +13,8 @@
 
 ### Jurgen Limonard - Data Engineer
 
-#### Profiel
+### Profiel
+<BR>
 Ik ben een ervaren Data Engineer met een verleden als Business Intelligence-ontwikkelaar. Ik werk sinds 1997 in de IT. Ik heb gewerkt voor o.a Booking.com, Rabo, ING en VodafoneZiggo, meestal in scrumteams.
 Goede analytische en communicatieve vaardigheden. Heb kennisdelingssessies gegeven en IT-gerelateerde artikelen gepubliceerd. 
 Continu blijven leren is één van de leuke kanten van het big data-ecosysteem.
@@ -64,9 +65,11 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Optimaliseren spark pipelines: significante verbetering doorlooptijd; complexiteit gereduceerd
 - PoC voor DBT - Snowflake; definiëren nieuwe (ontwikkel) standaarden en starten nieuwe DBT flows
 - Ondersteuning bij compliance (regulatory) programma's
+- Data kwaliteit - en validatie checks: demo's en presentaties (pyspark, DBT)
+
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
-- Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS
+- Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS, Databricks
 - Spark applicaties op Aws Emr, via PySpark en Scala
 - Bronnen: dump files, Kafka streams en api-calls
 - Opzetten Snowflake - Data Lake ingestion via een PoC en standaarden definiëren (Python, Aws Fargate)
@@ -91,6 +94,8 @@ Data Warehouse Designer/Developer, ABN AMRO (Fortis) (2010-01 - 2010-10)
 Data Warehouse Developer, Royal Bank of Scotland (2008-06 – 2009-12)   
 Data Warehouse Designer/Developer, UWV (2006-04 - 2008-06)  
 Data Warehouse Designer, ING (2005-05 - 2006-03)    
+Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)   
+Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)  
 
 
 ### Cursussen
@@ -115,12 +120,12 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
   <tr>
     <td>
     <img src="img/envelope-solid.svg" width="10" height="10" alt="email"></td>
-    <td>jurgen.limonard@gmail.com</td>
+    <td>jlimonard@protonmail.com</td>
   </tr>
 </table>
 
-
 <BR>
+
+<footer>
 Deze pagina als [pdf](https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard-nl.pdf).
-<!-- <footer>
-</footer> -->
+</footer>
