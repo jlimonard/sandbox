@@ -33,8 +33,8 @@ def remove_header_footer(markdown_content: str) -> str:
     # Remove <header>...</header> (case-insensitive, multiline)
     content = re.sub(r"<header>.*?</header>", "", markdown_content, flags=re.IGNORECASE | re.DOTALL)
     # Remove <footer>...</footer> (case-insensitive, multiline)
-    content = re.sub(r"<footer>.*?</footer>", "", content, flags=re.IGNORECASE | re.DOTALL)
-    return content
+    cleansed = re.sub(r"<footer>.*?</footer>", "", content, flags=re.IGNORECASE | re.DOTALL)
+    return cleansed
 
 
 def make_pdf() -> None:
