@@ -13,7 +13,8 @@
 
 ### Jurgen Limonard - Data Engineer
 
-#### Profile
+### Profile
+<BR>
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
@@ -40,7 +41,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
   </tr>
 </table>
 - MA (drs), Maatschappijgeschiedenis, Erasmus universiteit Rotterdam, [1986 - 1993]
-Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994			        		
+Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-vertrouwde-van-mijn-hart" target="_blank">ISBN13: 9789065501165</a>. Nominated ‘Hiskus-scriptieprijs’ 1993/1994
 - Oracle systeemontwerp & -bouw, Fast Lane, Maarssen, Bussum
 [aug. 1996 - feb. 1997]. SQL*Plus, PL/SQL, SQL*Forms 3.0, Developer/2000 (Oracle Forms 4.5, Reports 2.5), NIAM, Oracle 7 DBA, Designer/2000, Linux, ERM
 <BR>
@@ -58,11 +59,13 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
 - Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging
 - PoC to optimize spark pipelines to significantly improve runtimes and reduce complexity
-- PoC for DBT on Snowflake; define standards
+- PoC for DBT on Snowflake; define standards, promote usage of DBT, presentations about DBT
 - Support compliance (regulatory) programs
+- Data quality and validation checks: promoted via demo's and presentations (pyspark and DBT)
+
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
-- Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS
+- Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS, Databricks
 - Worked on Spark applications on Aws Emr, using PySpark and Scala
 - Sources like: daily or hourly dump files, Kafka streams and api-calls
 - Set up Snowflake to Data Lake ingestion via a PoC and define standards and made application (Python, Aws Fargate)
@@ -87,6 +90,8 @@ Data Warehouse Designer/Developer, ABN AMRO (Fortis) (2010-01 - 2010-10)
 Data Warehouse Developer, Royal Bank of Scotland (2008-06 – 2009-12)   
 Data Warehouse Designer/Developer, UWV (2006-04 - 2008-06)  
 Data Warehouse Designer, ING (2005-05 - 2006-03)    
+Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)   
+Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)
 
 
 ### Courses
@@ -111,12 +116,12 @@ Data Warehouse Designer, ING (2005-05 - 2006-03)
   <tr>
     <td>
     <img src="img/envelope-solid.svg" width="10" height="10" alt="email"></td>
-    <td>jurgen.limonard@gmail.com</td>
+    <td>jlimonard@protonmail.com</td>
   </tr>
 </table>
 
 <BR>
 
+<footer>
 This page as [pdf](https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard.pdf).
-<!-- <footer>
-</footer> -->
+</footer>
