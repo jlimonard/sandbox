@@ -123,5 +123,5 @@ Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)
 <BR>
 
 <footer>
-This page as [pdf](https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard.pdf).
+This page as <a href="https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard.pdf">pdf</a>.
 </footer>
