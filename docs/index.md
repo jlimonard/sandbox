@@ -2,6 +2,14 @@
    <meta name="robots" content="noindex">
 </head>
 
+<style>
+.page-break {
+    page-break-after: always; /* For modern browsers */
+    break-after: always; /* For older browsers */
+}
+</style>
+
+
 <!-- PDF-EXCLUDE-START -->
 <div id="header" style="margin:0 0 1rem; text-align: right;">
   Language:
@@ -64,7 +72,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Support compliance (regulatory) programs
 - Data quality and validation checks: promoted via demo's and presentations (pyspark and DBT)
 
-<div style="page-break-after: always;"></div>
+<div class="page-break"></div>
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS, Databricks
