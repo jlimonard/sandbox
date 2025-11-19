@@ -27,7 +27,7 @@ Continu blijven leren is één van de leuke kanten van het big data-ecosysteem.
   </tr>
 </table>
 - Spark, Python, PySpark, Scala, DBT, Linux, SQL, Databases
-- Data Modelling: Dimensional modelling, Data vault
+- Data Modelling: Dimensional modelling (Kimball), Data vault
 
 - Cloud
 

@@ -27,7 +27,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
   </tr>
 </table>
 - Main: Spark, Python, PySpark, Scala, DBT, Linux, SQL
-- Data Modelling: Dimensional modelling, Data vault
+- Data Modelling: Dimensional modelling (Kimball), Data vault
 - Cloud
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
    - GCP (BigQuery, Dataflow Dataproc)
