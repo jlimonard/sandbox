@@ -2,21 +2,22 @@
    <meta name="robots" content="noindex">
 </head>
 
-<!-- <header>
-<div id="lang-select" style="margin:0 0 1rem;">
+<!-- PDF-EXCLUDE-START -->
+<div id="header" style="margin:0 0 1rem;">
   Language:
   <a href="index_nl.md" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
   |
-  <a href="#" data-lang="en" id="lang-en" aria-label="English">English</a>
+  <a href="index.md" data-lang="en" id="lang-en" aria-label="English">English</a>
 </div>
-</header> -->
+<!-- PDF-EXCLUDE-END -->
 
 ### Jurgen Limonard - Data Engineer
 
 ### Profile
-<BR>
+
 I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
+
 
 <table>
   <tr>
@@ -63,6 +64,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Support compliance (regulatory) programs
 - Data quality and validation checks: promoted via demo's and presentations (pyspark and DBT)
 
+\pagebreak
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS, Databricks
@@ -122,6 +124,8 @@ Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)
 
 <BR>
 
-<footer>
+<!-- PDF-EXCLUDE-START -->
+<div id="footer">
 This page as <a href="https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard.pdf">pdf</a>.
-</footer>
+</div>
+<!-- PDF-EXCLUDE-END -->

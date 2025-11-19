@@ -2,14 +2,14 @@
    <meta name="robots" content="noindex">
 </head>
 
-<!-- <header>
-<div id="lang-select" style="margin:0 0 1rem;">
+<!-- PDF-EXCLUDE-START -->
+<div id="header" style="margin:0 0 1rem;">
   Language:
   <a href="index_nl.md" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
   |
-  <a href="#" data-lang="en" id="lang-en" aria-label="English">English</a>
+  <a href="index.md" data-lang="en" id="lang-en" aria-label="English">English</a>
 </div>
-</header> -->
+<!-- PDF-EXCLUDE-END -->
 
 ### Jurgen Limonard - Data Engineer
 
@@ -126,6 +126,8 @@ Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)
 
 <BR>
 
-<footer>
+<!-- PDF-EXCLUDE-START -->
+<div id="footer">
 Deze pagina als <a href="https://raw.githubusercontent.com/jlimonard/sandbox/main/pdf/resum%C3%A9-jlimonard-nl.pdf">pdf</a>.
-</footer>
+</div>
+<!-- PDF-EXCLUDE-END -->
