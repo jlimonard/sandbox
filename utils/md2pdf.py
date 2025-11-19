@@ -26,15 +26,11 @@ LANGUAGE_CONFIGS = {
 }
 
 
-def remove_header_footer(markdown_content: str) -> str:
-    """Remove <header> and <footer> tags and their content.
-    re.DOTALL: match any character including newlines
-    """
-    # Remove <header>...</header> (case-insensitive, multiline)
-    content = re.sub(r"<header>.*?</header>", "", markdown_content, flags=re.IGNORECASE | re.DOTALL)
-    # Remove <footer>...</footer> (case-insensitive, multiline)
-    cleansed = re.sub(r"<footer>.*?</footer>", "", content, flags=re.IGNORECASE | re.DOTALL)
-    return cleansed
+def remove_pdf_excluded_content(markdown_content: str) -> str:
+    """Remove content between PDF-EXCLUDE markers."""
+    pattern = r"<!-- PDF-EXCLUDE-START -->.*?<!-- PDF-EXCLUDE-END -->"
+    content = re.sub(pattern, "", markdown_content, flags=re.IGNORECASE | re.DOTALL)
+    return content
 
 
 def make_pdf() -> None:
@@ -55,8 +51,8 @@ def make_pdf() -> None:
     pdf_file: Path = Path(f"pdf/{config.output_file_pdf}").absolute()
 
     content: str = markdown_file.read_text(encoding="utf-8")
-    # Remove header (laguage selection) and footer (pdf link) from the markdown - makes no sense in the pdf
-    cleaned_content: str = remove_header_footer(content)
+    # Remove language selection and pdf link from the markdown - makes no sense in the pdf
+    cleaned_content: str = remove_pdf_excluded_content(content)
     _: str = pypandoc.convert_text(
         source=cleaned_content,
         to="pdf",
