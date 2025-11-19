@@ -5,9 +5,9 @@
 <!-- PDF-EXCLUDE-START -->
 <div id="header" style="margin:0 0 1rem;">
   Language:
-  <a href="index_nl.md" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
+  <a href="index_nl.html" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
   |
-  <a href="index.md" data-lang="en" id="lang-en" aria-label="English">English</a>
+  <a href="index.html" data-lang="en" id="lang-en" aria-label="English">English</a>
 </div>
 <!-- PDF-EXCLUDE-END -->
 
