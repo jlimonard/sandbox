@@ -3,7 +3,7 @@
 </head>
 
 <!-- PDF-EXCLUDE-START -->
-<div id="header" style="margin:0 0 1rem;">
+<div id="header" style="margin:0 0 1rem; text-align: right;">
   Language:
   <a href="index_nl.html" data-lang="nl" id="lang-nl" aria-label="Nederlands">Nederlands</a>
   |
