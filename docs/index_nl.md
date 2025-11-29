@@ -15,7 +15,7 @@
 
 ### Profiel
 <BR>
-Ik ben een ervaren Data Engineer met een verleden als Business Intelligence-ontwikkelaar. Ik werk sinds 1997 in de IT. Ik heb gewerkt voor o.a Booking.com, Rabo, ING en VodafoneZiggo, meestal in scrumteams.
+Ik ben een ervaren Data Engineer met een verleden in Business Intelligence als Datawaresouse designer/developer. Ik werk sinds 1997 in de IT. Ik heb gewerkt voor o.a Booking.com, Rabo, ING en VodafoneZiggo, meestal in scrumteams.
 Goede analytische en communicatieve vaardigheden. Heb kennisdelingssessies gegeven en IT-gerelateerde artikelen gepubliceerd. 
 Continu blijven leren is één van de leuke kanten van het big data-ecosysteem.
 
@@ -32,7 +32,7 @@ Continu blijven leren is één van de leuke kanten van het big data-ecosysteem.
 - Cloud
 
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
-   - GCP (BigQuery, Dataflow Dataproc)
+   - GCP (BigQuery, Dataflow, Dataproc)
    - Databricks
 
 
@@ -95,12 +95,11 @@ Data Warehouse Developer, Royal Bank of Scotland (2008-06 – 2009-12)
 Data Warehouse Designer/Developer, UWV (2006-04 - 2008-06)  
 Data Warehouse Designer, ING (2005-05 - 2006-03)    
 Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)   
-Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)  
 
 
 ### Cursussen
 - Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
-- Data Engineering on Google Cloud Platform (5 courses), Coursera 
+- Data Engineering on Google Cloud Platform (Dataproc, Dataflow, Pub/Sub), Coursera
 - Functional Programming Principles in Scala, Coursera
 - Data Vault (modelling), VanderLek Advies
 - Dimensional modelling, VanderLek Advies

@@ -2,14 +2,6 @@
    <meta name="robots" content="noindex">
 </head>
 
-<style>
-.page-break {
-    page-break-after: always; /* For modern browsers */
-    break-after: always; /* For older browsers */
-}
-</style>
-
-
 <!-- PDF-EXCLUDE-START -->
 <div id="header" style="margin:0 0 1rem; text-align: right;">
   Language:
@@ -23,7 +15,7 @@
 
 ### Profile
 
-I am an experienced Data Engineer with a past as Business Intelligence developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
+I am an experienced Data Engineer with a past in Business Intelligence as Data warehouse designer/developer. Working in IT since 1997. Worked for companies like Booking.com, Rabo, ING and VodafoneZiggo, mostly in scrum teams. 
 Good analytical and communication skills. Presented knowledge sharing sessions and published IT related articles. As continuous learner I enjoy the big data ecosystem.
 
 
@@ -38,7 +30,7 @@ Good analytical and communication skills. Presented knowledge sharing sessions a
 - Data Modelling: Dimensional modelling (Kimball), Data vault
 - Cloud
    - AWS (Emr, Athena, Dms, Ecs, Fargate, Lambda)
-   - GCP (BigQuery, Dataflow Dataproc)
+   - GCP (BigQuery, Dataflow, Dataproc)
    - Databricks
 
 
@@ -66,18 +58,17 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 #### Data Engineer <a href="https://www.Booking.com/" target="_blank">Booking.com</a> (2023-10 - 2025-10)
 - Tools: Spark, PySpark, Airflow, Astronomer, Kubernetes, Snowflake, DBT, Linux, docker, Python, Hadoop, Hive, Oozie
 - Built ETL-pipelines, gave presentations, support migration from on premise hadoop to cloud, Snowflake/DBT
-- Optimized (spark) workflows to significantly improve performance and stability. Extended monitoring and logging
-- PoC to optimize spark pipelines to significantly improve runtimes and reduce complexity
+- Optimized (Spark) workflows to significantly improve performance and stability. Extended monitoring and logging
+- PoC to optimize Spark pipelines to significantly improve runtimes and reduce complexity. 
 - PoC for DBT on Snowflake; define standards, promote usage of DBT, presentations about DBT
-- Support compliance (regulatory) programs
+- Support compliance (regulatory) team
 - Data quality and validation checks: promoted via demo's and presentations (pyspark and DBT)
 
-<div class="page-break"></div>
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
 - Tools: Hadoop, MapR, Spark, PySpark, scala, Hive, oozie, Airflow, Snowflake, Linux, docker, Python, AWS, Databricks
 - Worked on Spark applications on Aws Emr, using PySpark and Scala
-- Sources like: daily or hourly dump files, Kafka streams and api-calls
+- Sources: daily or hourly dump files, Kafka streams and api-calls
 - Set up Snowflake to Data Lake ingestion via a PoC and define standards and made application (Python, Aws Fargate)
 
 
@@ -101,12 +92,11 @@ Data Warehouse Developer, Royal Bank of Scotland (2008-06 – 2009-12)
 Data Warehouse Designer/Developer, UWV (2006-04 - 2008-06)  
 Data Warehouse Designer, ING (2005-05 - 2006-03)    
 Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)   
-Data Warehouse Developer, Ministerie VROM, (2004-10 - 2005-01)
 
 
 ### Courses
 - Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
-- Data Engineering on Google Cloud Platform (5 courses), Coursera 
+- Data Engineering on Google Cloud Platform (Dataproc, Dataflow, Pub/Sub), Coursera 
 - Functional Programming Principles in Scala, Coursera
 - Data Vault (modelling), VanderLek Advies
 - Dimensional modelling, VanderLek Advies
