@@ -95,6 +95,7 @@ Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)
 
 
 ### Courses
+- Terraform Associate 003, Udemy
 - Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
 - Data Engineering on Google Cloud Platform (Dataproc, Dataflow, Pub/Sub), Coursera 
 - Functional Programming Principles in Scala, Coursera

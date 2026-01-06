@@ -65,7 +65,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 - Optimaliseren spark pipelines: significante verbetering doorlooptijd; complexiteit gereduceerd
 - PoC voor DBT - Snowflake; definiëren nieuwe (ontwikkel) standaarden en starten nieuwe DBT flows
 - Ondersteuning bij compliance (regulatory) programma's
-- Data kwaliteit - en validatie checks: demo's en presentaties (pyspark, DBT)
+- Datakwaliteit en validatie checks: demo's en presentaties (pyspark, DBT)
 
 
 #### Data Engineer <a href="https://www.vodafoneziggo.nl/" target="_blank">VodafoneZiggo</a> (2021-01 - 2023-09)
@@ -98,6 +98,7 @@ Data Warehouse Designer/Developer, ABN AMRO (2005-02 - 2005-05)
 
 
 ### Cursussen
+- Terraform Associate 003, Udemy
 - Neo4j Fundamentals (Neo4j, Cypher, Graph data modeling), Neo4j GraphAcademy 
 - Data Engineering on Google Cloud Platform (Dataproc, Dataflow, Pub/Sub), Coursera
 - Functional Programming Principles in Scala, Coursera
