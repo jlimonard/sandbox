@@ -49,7 +49,7 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 
 <table>
   <tr>
-    <td>
+    <td> 
     <img src="img/briefcase-solid.svg" width="25" height="25" alt="Projects"></td>
     <td>Projects</td>
   </tr>
@@ -73,16 +73,16 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 
 
 #### Data Engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
-- Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop
+- Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop, Databricks, Azure DevOps
 - Built ETL pipelines, both batch and streaming. Worked with parquet, avro, orc, json
 - Used hdfs, HBase and Hive as sink
-- Data preparation via Google BigQuery. Used Databricks
+- Data preparation via Google BigQuery
 - Gave knowledge sharing sessions about HBase
 - Set up standards for the new Rabo Data Lake
 
 #### Data Warehouse Developer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2015-11 - 2017-06)
 - Built deployment automation CI/CD of Oracle and PowerCenter sources using Python. Huge time saver
--  Built ETL-flows using Oracle PL/SQL, PowerCenter, Python
+- Built ETL-flows using Oracle PL/SQL, PowerCenter, Python
 
 Data Warehouse Developer, Rabo International (2013-07 - 2015-10)  
 Data Warehouse Developer, Liberty Global (LGI, UPC) (2011-10 - 2013-07)  

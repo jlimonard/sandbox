@@ -76,10 +76,10 @@ Thesis: <a href="https://verloren.nl/Webshop/Detail/catid/22584/eid/25786/de-ver
 
 
 #### Data Engineer <a href="https://www.rabobank.nl/" target="_blank">Rabo Nederland</a> (2017-07 - 2020-12)
-- Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop
+- Tools: Hadoop, Spark, PySpark, Scala, Hive, Kafka, Airflow, Linux, Python, Nifi, Hortonworks, Cloudera, sqoop, Databricks, Azure DevOps
 - ETL pipelines gemaakt (batch en streaming). Formats als: parquet, avro, orc, json
 - hdfs, HBase en Hive als opslag
-- Data preparatie via Google BigQuery en Databricks
+- Data preparatie via Google BigQuery
 - Kennisdeel sessies gegeven over HBase
 - Opzetten standaarden voor nieuwe Rabo Data Lake
 
